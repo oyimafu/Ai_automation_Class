@@ -1,0 +1,49 @@
+MHAC (MIGRATION HEALTH ASSESSMENT CENTRE) – PATIENT INFORMATION
+This is training information for a class exercise. It is not a real clinic.
+
+ABOUT THE CENTRE
+The MHAC carries out health assessments for people applying to travel or move to the United Kingdom. The assessment usually includes a registration check, a consultation with a doctor, and any tests the doctor requests, such as a chest X-ray.
+
+OPENING HOURS
+Monday to Friday: 8:00 AM to 4:00 PM
+Saturday: 9:00 AM to 1:00 PM
+Sunday and public holidays: Closed
+Please arrive 15 minutes before your appointment time.
+
+WHAT TO BRING
+- Your original, valid passport (the same one used in your application)
+- Your appointment confirmation letter or email
+- Two recent passport-sized photographs
+- Your glasses or contact lenses if you wear them
+- Any previous chest X-ray or medical reports, if you have them
+Patients under 18 must come with a parent or legal guardian.
+
+HOW THE ASSESSMENT WORKS
+1. Scan the QR (Quick Response) code at reception and fill in the registration form on your phone.
+2. A member of staff checks your details against your passport.
+3. You see the doctor, who asks why you are visiting and about any recent symptoms.
+4. If the doctor requests tests, you go to the lab or X-ray room.
+5. When your result is ready, the receptionist calls you to collect it.
+
+HOW LONG IT TAKES
+Most patients finish in 2 to 3 hours. It can take longer on busy days or if more tests are needed.
+
+PREPARING FOR TESTS
+- Chest X-ray: wear clothes without metal buttons or zips on the top half if possible. Remove jewellery.
+- Blood test: you do not need to fast unless the doctor tells you to. Drink water as normal.
+- Sputum test: the lab officer will explain how to give the sample.
+- If you are pregnant or think you might be, tell the doctor before any X-ray.
+
+COLLECTING YOUR RESULT
+Results are given to you at reception, usually on the same day. The receptionist will call your Patient ID when it is ready. Bring your passport to collect it. Results are only given to the patient, or to a parent or guardian for patients under 18.
+The chatbot cannot see or share any patient's results.
+
+FEES AND PAYMENT
+The assessment fee is paid when you book your appointment online. Extra tests requested by the doctor may have an additional charge, which reception will explain. We accept card payments only at the centre.
+
+RESCHEDULING OR CANCELLING
+To change your appointment, use the link in your booking email at least 24 hours before your appointment.
+
+CONTACT
+Reception email: reception@mhac-training.example
+Reception phone: +000 000 0000 (Monday to Friday, 8:00 AM to 4:00 PM)
